@@ -39,7 +39,6 @@ const startGame = () => {
          return isTrue();
       }
    };
-   console.dir(isTrue);
    isTrue();
 };
 startGame();
